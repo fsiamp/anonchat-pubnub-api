@@ -1,2 +1,2 @@
-# anonchat
+# Anonchat
 Talk with strangers anonymously
