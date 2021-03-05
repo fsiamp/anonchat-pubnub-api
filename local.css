@@ -1,0 +1,28 @@
+body,html {
+  background-color: black;
+  line-height: 40px;
+  overflow-x: hidden;
+}
+
+img {
+  width:300px;
+}
+
+input {
+  position:relative; 
+  top:-20px;
+  padding:5px; 
+  width: 100%;
+  font-family:Tahoma; 
+  font-size:17px;
+}
+
+@media screen and (max-width: 650px) {
+  img {
+    width: 150px;
+  }
+  input {
+    top: -10px;
+    padding: 2px;
+  }
+}
