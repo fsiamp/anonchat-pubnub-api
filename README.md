@@ -5,6 +5,6 @@ Every time that the page is refreshed the texts are disappeared and new messages
 
 This application makes use of PubNub API.
 
-URL: https://softdonkey.github.io/spammise/
+<b>URL</b>: https://softdonkey.github.io/anonchat
 
-![alt tag](https://raw.githubusercontent.com/softdonkey/spammise/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/anonchat/master/screenshot.png)
